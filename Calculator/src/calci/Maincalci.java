@@ -4,10 +4,14 @@ public class Maincalci {
 	
 	public static void main(String[] args){
 		Testcalci calci = new Testcalci();
-		calci.add();
-		calci.minus();
-		calci.multiply();
-		calci.divide();
+		calci.addtwonumber();
+		calci.addthreenumber();
+		calci.minustwonumber();
+		calci.minusthreenumber();
+		calci.multiplytwonumber();
+		calci.multiplythreenumber();
+		calci.dividetwonumber();
+		calci.dividethreenumber();
 		
 	}
 
