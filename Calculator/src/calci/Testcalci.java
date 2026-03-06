@@ -8,6 +8,7 @@ public class Testcalci {
 		int sum= num1 + num2;
 		
 		System.out.println("Total2:" + sum);
+		dividethreenumber();
 	}
 	public void addthreenumber(){
 		
@@ -66,7 +67,7 @@ public class Testcalci {
 		int num3=2;
 		int divide= num1 / num2 /num3;
 		
-		System.out.println("Total3:" + divide);
+		System.out.println("Totald:" + divide);
 		
 	}
 

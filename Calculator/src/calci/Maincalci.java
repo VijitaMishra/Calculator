@@ -11,7 +11,7 @@ public class Maincalci {
 		calci.multiplytwonumber();
 		calci.multiplythreenumber();
 		calci.dividetwonumber();
-		calci.dividethreenumber();
+		//calci.dividethreenumber();
 		
 	}
 
